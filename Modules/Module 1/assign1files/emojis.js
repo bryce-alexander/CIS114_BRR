@@ -1,3 +1,10 @@
+// Bryce Rankin
+// brankin2@my.smccd.edu
+// CIS 114 OL
+// emojis.js
+// Assignment #1
+// Date: 8/30/2020
+
 'use strict'
  
 let objectArray = [
