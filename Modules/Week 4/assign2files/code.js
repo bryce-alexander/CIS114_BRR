@@ -1,3 +1,10 @@
+/* Bryce Rankin   
+brankin2@my.smccd.edu
+CIS 114 OL
+index.html
+Assignment #2
+9/15/2020 */
+
 "use strict"
 
 	// Employee class
