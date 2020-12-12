@@ -1,0 +1,31 @@
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<!--
+Bryce Rankin
+brankin2@my.smccd.edu
+CIS 114 OL
+index.html
+Lab 15
+12/10/2020
+-->
+  <head>
+    <meta http-equiv='content-type' content='text/html; charset=UTF-8'/> 
+    <title>Bryce Rankin</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="apod.js"></script> 
+  </head>  
+  <body>
+    <h1>NASA Picture of the Day</h1>
+    <div class='buttons'>
+      <button type='button' class="ui-button ui-widget ui-highlight ui-corner-all">Today</button> 
+      <button type='button' class="ui-button ui-widget ui-highlight ui-corner-all">Random Day</button><br>
+      <button type='button' class="ui-button ui-widget ui-highlight ui-corner-all">Choose a Date</button>
+      <input type="text" id="datepicker" readonly="readonly">
+    </div>
+    <div class='images' id='images'>
+    </div>
+  </body>
+</html>
+ 
