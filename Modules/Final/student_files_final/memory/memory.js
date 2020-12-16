@@ -1,3 +1,10 @@
+// Bryce Rankin
+// brankin2@my.smccd.edu
+// CIS 114
+// memory.js
+// Final Exam
+// 12/12/2020
+
 const cards = document.querySelectorAll('.memory-card');
 
 let hasFlippedCard = false;
